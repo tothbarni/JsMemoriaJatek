@@ -1,4 +1,4 @@
 import JatekTer from "./JatekTer.js";
+import kepekLista from "./kepekLista.js";
 
-let szElem = document.querySelector(".art");
-new JatekTer(szElem);
+new JatekTer(kepekLista);
